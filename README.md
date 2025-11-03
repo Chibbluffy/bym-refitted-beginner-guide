@@ -103,11 +103,10 @@ You should begin upgrading your flinger if you can afford it. Each level gives y
 
 ### Inferno
 - Moloch starts attacking your bases (up to 5 times) once you reach Town Hall level 5
-- If you close out the game, the attack does not kill your base
-  - Not confirmed yet if the attack is postponed or if it is skipped
-- At the lower levels, Teratorns and a flying Fomor are good at taking the bases out. 
+- If you close out the game, the attack is skipped and your base is not damaged. 
+- At the lower levels of descent, Teratorns and a flying Fomor are good at taking the bases out. 
 - You can also use a level 1 Drull and juice/respawn him to spam him
-- Champions only take damage from the towers, not the heat from the environment
+- Champions only take damage from the towers, not the heat from the environment, so you can juice a level 1 champion after every attack to instant hatch a fully healed one.
 
 ### Champions
 - Drull is the best starter champion to get started taking over outposts. His base attack at level 1 is equal to 50 Pokies.
