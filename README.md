@@ -24,7 +24,7 @@
     - [Defense](#defense)
     - [Outposts](#outposts)
     - [Misc.](#misc)
-  - [Wild Tribe Loot Table](#wild-tribe-loot-table)
+  - [Wild Tribe Loot Table (in millions)](#wild-tribe-loot-table-in-millions)
 
 ## Getting Started
 If you are wondering how to get up and running as fast as possible, you came to the right place.  
@@ -138,8 +138,8 @@ You should begin upgrading your flinger if you can afford it. Each level gives y
 - The yard planner allows for better placement options of buildings and structures. As you may notice when moving buildings around, it is in incements of diagonals. There are no direct ups and downs, but you can get around that with the yard planner.
 - 
 
-## Wild Tribe Loot Table
-|Tribe|Level|Loot (in millions)|Twigs|Pebbles|Putty|Goo|Takeover Cost (in millions)|
+## Wild Tribe Loot Table (in millions)
+|Tribe|Level|Loot|Twigs|Pebbles|Putty|Goo|Takeover Cost|
 |-|-|-|-|-|-|-|-|
 |Legionnaire|25||0.07|0.2|0.2|0.03|1|
 |Legionnaire|29||0.07|0.2|0.2|0.03|1.5|
@@ -149,17 +149,17 @@ You should begin upgrading your flinger if you can afford it. Each level gives y
 |<hr>|<hr>|<hr>|<hr>|<hr>|<hr>|<hr>|<hr>|
 |Abunakki|27||1.4|1.4|1.4|0.24|1|
 |Abunakki|31||1.45|1.45|1.45|0.24|2.75|
-|Abunakki|35||||||5|
-|Abunakki|39||||||7.25|
-|Abunakki|43||||||9.5|
+|Abunakki|35||2.8|2.8|2.8|0.3|5|
+|Abunakki|39||2.8|2.8|2.8|0.3|7.25|
+|Abunakki|43||2.8|2.8|2.8|0.3|9.5|
 |<hr>|<hr>|<hr>|<hr>|<hr>|<hr>|<hr>|<hr>|
-|Dreadnaut|28||||||1|
-|Dreadnaut|32||||||3.25|
-|Dreadnaut|36||||||5.5|
-|Dreadnaut|40||||||7.75|
-|Dreadnaut|44||2.85|2.84|2.95|0.42|10|
+|Dreadnaut|28||2.1|2.1|2.1|0.35|1|
+|Dreadnaut|32||2.1|2.1|2.1|0.35|3.25|
+|Dreadnaut|36||2.8|2.8|2.9|0.4|5.5|
+|Dreadnaut|40||2.8|2.8|2.9|0.4|7.75|
+|Dreadnaut|44||2.8|2.8|2.9|0.4|10|
 |<hr>|<hr>|<hr>|<hr>|<hr>|<hr>|<hr>|<hr>|
-|Kozu|30||||||2.25|
-|Kozu|34||||||4.5|
-|Kozu|38||||||6.75|
-|Kozu|42||||||9|
+|Kozu|30||2.8|2.8|2.8|0.3|2.25|
+|Kozu|34||2.8|2.8|2.8|0.3|4.5|
+|Kozu|38||4|4|4|1.9|6.75|
+|Kozu|42||4|4|4|1.9|9|
