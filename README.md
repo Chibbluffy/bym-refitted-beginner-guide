@@ -60,7 +60,12 @@ The easiest targets for resources are level 28 and level 32 Dreadnauts, followed
 You should begin upgrading your flinger if you can afford it. Each level gives you more range to attack from your main yard. If you want to attack further, you need to take over outposts and build and upgrade the flinger on those outposts. Outposts have a rmax ange of 4 hexes instead of 10, unlike your main yard
 
 #### Unlock Inferno
-- Once you reach Town Hall level 5, Moloch will start attacking you. After 5 attacks, you can start attacking him back. Once you reach the end of his Descent bases, you can start building an Inferno base. It is similar to your main yard, but a whole different set of resources, and the building levels are maxed out at lower levels. 
+- Once you reach Town Hall level 5, Moloch will start attacking you. After 5 attacks, you can start attacking him back. Moloch does not attack you anymore after this, not even in the inferno base. Once you reach the end of his Descent bases, you can start building an Inferno base.
+- It is similar to your main yard, with a couple changes
+  - Resources are a completely different set, but they do the same thing
+  - The building levels are maxed out at lower levels.
+  - There is only 1 worker
+  - The monsters unlocked have very high stat values
 - [Tips on Inferno](#inferno)
 
 
@@ -68,10 +73,18 @@ You should begin upgrading your flinger if you can afford it. Each level gives y
 
 ### Relocating
 - If you find you are surrounded by higher levels or you do not like your location or server, you can relocate by recycling your map room and rebuilding it. It is super cheap: 2,000 twigs and 2,000 pebbles and only takes 15 minutes to build. You will randomly be placed in a random server in a random location. 
-- Your server name is the name of the player at 0x0
-- Server Styx is the oldest
-- Servers OP and LOL are generally more pvp if you like to war
-- Server DarkKnight is still chill for now, but this may change
+- Generally, your server name is the name of the player at 0x0
+- World 1 - Styx: 4HAHAHA
+  - Oldest world
+  - Has the biggest players, and the most inactives
+- World 2 - OP: OP
+- World 3 - LOL: LOL
+- World 4 - DarkKnight: DarkKnight
+  - Newest world, therefore usually newest players
+- You can start out in any world if you have a good location.
+- *Usually* servers 1 and 4 are better to start out on as new players, as there are (currently?) fewer wars than in the other 2. 
+  - Disclaimer: This is what I have personally heard. I do not have accounts in each world to verify these claims.
+  - Disclaimer 2: I do not update this guide constantly. You can ask in the discord for current status
 
 ### Quests
 - The quests to take down wild tribe town halls do not work. In the original game, there was a map room version 1 where it could be completed. In BYM Refitted, we all start out in map room version 2, so the quest cannot be completed as of the writing of this guide.
@@ -118,13 +131,17 @@ You should begin upgrading your flinger if you can afford it. Each level gives y
 
 ### Attacking
 - Build a catapult! You can repeatedly send 10,000 twigs/pebbles to knock down towers
-- Flinging putty in the catapult buffs your monsters. Lower amounts of putty give more armor. Higher ammounts of putty give more speed.
+- Flinging putty in the catapult buffs your monsters. Higher amounts of putty give more armor and more speed.
+  - The wording for armor is misleading. 10,000 putty will give 20% speed and 20% damage mitigation. They still take 80% damage, it is not 80% damage blocked.
 - Upgrade your flinger for a larger range around your main base, up to 10 hexes away.
 - Your main yard has up to a 10 tile fling radius. If you want to attack further, you must use your outposts. You can build housings and flingers on your outposts. Outposts have a max range of 4 hexes.
 - You can also move your main base location for 30 million of every resource onto an outpost you already own.
 
 ### Defense
-- The best monsters to put in a bunker are Eyeras and Daves with rockets
+- In my opinion, The best monsters to put in a bunker are Eyeras and Daves with rockets
+- Level 1 bunker I usually put 3 Daves, 1 Eyera
+- Level 4 bunker I usually put 3 Daves, 3 Eyera
+- If facing the event wild monster waves, you might want to replace these with Octo-oozes or a large number of other monsters, because at later waves, they are completely immune for 30 seconds. So having a large number of monsters to delay them will be ideal.
 
 ### Outposts
 - Each outpost gives 2 million max storage capacity for each resource. 
@@ -136,7 +153,7 @@ You should begin upgrading your flinger if you can afford it. Each level gives y
 - When you start your account, you have a 7 day protection bubble. This cannot be removed, so you are free to attack wild tribes and other players without losing the protection. 
 - You may remember monsters regenerating HP rather than remaking them every time after an attack. This is a feature of Map Room Version 3. This is currently not implemented, but the devs are working on it. It will be announced when ready.
 - The yard planner allows for better placement options of buildings and structures. As you may notice when moving buildings around, it is in incements of diagonals. There are no direct ups and downs, but you can get around that with the yard planner.
-- 
+
 
 ## Wild Tribe Loot Table (in millions)
 |Tribe|Level|Loot|Twigs|Pebbles|Putty|Goo|Takeover Cost|
