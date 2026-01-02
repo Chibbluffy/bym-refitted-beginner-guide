@@ -36,6 +36,7 @@ The first thing you want to do, as you are going through the tutorial, is buy wo
 After you finish the tutorial, rush to upgrade your silos. You will need at least 1 million base max capacity storage to take over your first outpost. 
 
 #### Farm Resources
+** Warning: ** When attacking, you WILL lose your beginner protection shield. 
 There are 2 super easy ways you can get enough resources for this. Either attack some level 28 or level 32 Dreadnauts, or complete some upgrade quests. If you do not have any low level Dreadnauts or Legionnaires around, consider [relocating](#relocating).
 1. You will have a few Pokies in your housing from the tutorial. Originally, there would be another part of the tutorial that leads you to attack some wild monster tribes, but that is not implemented in BYM Refitted. Instead, you can use these Pokies to attack Dreadnauts for easy resources. 3-4 Pokies can take out the whole silo that sits outside the base in a few minutes. Just attacking it should net you a few thousand of each resource, and killing it completely will give well over 100,000 of each resource except goo, so you may want to save the killing for later after upgrading a silo or two.
     - Here are the spots you can attack 
@@ -57,7 +58,7 @@ Attack and loot until you have enough to take over 5 more outposts. At this poin
 The easiest targets for resources are level 28 and level 32 Dreadnauts, followed by any Legionnaire.
 
 #### Upgrade flinger for more base range
-You should begin upgrading your flinger if you can afford it. Each level gives you more range to attack from your main yard. If you want to attack further, you need to take over outposts and build and upgrade the flinger on those outposts. Outposts have a rmax ange of 4 hexes instead of 10, unlike your main yard
+You should begin upgrading your flinger if you can afford it. Each level gives you more range to attack from your main yard. If you want to attack further, you need to take over outposts and build and upgrade the flinger on those outposts. Outposts have a max range of 4 hexes instead of 10, unlike your main yard
 
 #### Unlock Inferno
 - Once you reach Town Hall level 5, Moloch will start attacking you. After 5 attacks, you can start attacking him back. Moloch does not attack you anymore after this, not even in the inferno base. Once you reach the end of his Descent bases, you can start building an Inferno base.
@@ -73,8 +74,8 @@ You should begin upgrading your flinger if you can afford it. Each level gives y
 
 ### Relocating
 - If you find you are surrounded by higher levels or you do not like your location or server, you can relocate by recycling your map room and rebuilding it. It is super cheap: 2,000 twigs and 2,000 pebbles and only takes 15 minutes to build. You will randomly be placed in a random server in a random location. 
-- Generally, your server name is the name of the player at 0x0
-- World 1 - Styx: 4HAHAHA
+- Generally, your server name is the name of the player at 0x0. You can go to the [leaderboard](https://www.bymrefitted.com/leaderboards) to see the servers in order in the dropdown menu. If someone takes over the spot at 0x0 it may take some time for the page to update to the new name. 
+- World 1 - 4HAHAHA: 4HAHAHA
   - Oldest world
   - Has the biggest players, and the most inactives
 - World 2 - OP: OP
@@ -140,6 +141,8 @@ You should begin upgrading your flinger if you can afford it. Each level gives y
 ### Defense
 - In my opinion, The best monsters to put in a bunker are Eyeras and Daves with rockets
 - Level 1 bunker I usually put 3 Daves, 1 Eyera
+- Level 2 bunker I usually put 2 Daves, 2 Eyera
+- Level 3 bunker I usually put 3 Daves, 1 Eyera
 - Level 4 bunker I usually put 3 Daves, 3 Eyera
 - If facing the event wild monster waves, you might want to replace these with Octo-oozes or a large number of other monsters, because at later waves, they are completely immune for 30 seconds. So having a large number of monsters to delay them will be ideal.
 
@@ -150,9 +153,10 @@ You should begin upgrading your flinger if you can afford it. Each level gives y
 - When building a kit, it replaces all buildings already existing on the outpost. 
 
 ### Misc.
-- When you start your account, you have a 7 day protection bubble. This cannot be removed, so you are free to attack wild tribes and other players without losing the protection. 
+- When you start your account, you have a 7 day protection bubble. This WILL be removed on attacking anything.
+- Protection on outposts will only be removed if you perform an attack that uses any of the monsters on that outpost. 
 - You may remember monsters regenerating HP rather than remaking them every time after an attack. This is a feature of Map Room Version 3. This is currently not implemented, but the devs are working on it. It will be announced when ready.
-- The yard planner allows for better placement options of buildings and structures. As you may notice when moving buildings around, it is in incements of diagonals. There are no direct ups and downs, but you can get around that with the yard planner.
+- The yard planner allows for better placement options of buildings and structures. As you may notice when moving buildings around, it is in incements of diagonals. There are no direct ups and downs, but you can get around that with the yard planner. Those positions that are normally not possible via manual placement may be buggy if you use the yard planner to put things in those positions.
 
 
 ## Wild Tribe Loot Table (in millions)
