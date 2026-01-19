@@ -32,21 +32,22 @@ If you are wondering how to get up and running as fast as possible, you came to 
 #### Get Workers
 The first thing you want to do, as you are going through the tutorial, is buy workers. With the starting 1500 shiny, you can buy 2 workers. 3 Total workers is enough to get started, but you will want at least 4 ASAP. Wait until the 20th of the month and you can afford a 4th one. Everyone receives 400 shiny every month on the 20th. 
 
-#### Upgrade Storage Capacity  
-After you finish the tutorial, rush to upgrade your silos. You will need at least 1 million base max capacity storage to take over your first outpost. 
-
 #### Farm Resources
 ** Warning: ** When attacking, you WILL lose your beginner protection shield. 
 There are 2 super easy ways you can get enough resources for this. Either attack some level 28 or level 32 Dreadnauts, or complete some upgrade quests. If you do not have any low level Dreadnauts or Legionnaires around, consider [relocating](#relocating).
-1. You will have a few Pokies in your housing from the tutorial. Originally, there would be another part of the tutorial that leads you to attack some wild monster tribes, but that is not implemented in BYM Refitted. Instead, you can use these Pokies to attack Dreadnauts for easy resources. 3-4 Pokies can take out the whole silo that sits outside the base in a few minutes. Just attacking it should net you a few thousand of each resource, and killing it completely will give well over 100,000 of each resource except goo, so you may want to save the killing for later after upgrading a silo or two.
+1. You will have a few Pokies in your housing from the tutorial. Originally, there would be another part of the tutorial that leads you to attack some wild monster tribes, but that is not implemented in BYM Refitted. Instead, you can use these Pokies to attack lower level Dreadnauts for easy resources. 3-4 Pokies can take out the whole silo that sits outside the base in a few minutes. Just attacking it should net you a few thousand of each resource, and killing it completely will give well over 100,000 of each resource except goo, so you may want to save the killing for later after upgrading a silo or two.
     - Here are the spots you can attack 
     - ![Dreadnaut free loot](./Dreadnaut-free-spots.png)
-2. Quests are pretty easy also. Upgrade one of each resource gatherer to maybe level 3. You will also get resources from upgrading your silo. 
+2. Quests are pretty easy also. Upgrade one of each resource gatherer to maybe level 3. You will also get resources from upgrading your silo.  
 
-You will want to upgrade the Town Hall to at least level 3, and 2 silos to at least level 6. A third silo can be upgraded but doesn't have to reach 6 to give you 1 million storage capacity. If you are lucky, this requirement is halved to 500,000 and you can postpone some silo upgrades. This is because hexes direcly beside your main yard hex are half off!
+
+#### Expand Your Storage
+Standard Method: Upgrade your Town Hall to Level 4 and upgrade silos. This allows your Silos to hold the 1 million resources required for a standard takeover.  
+The Shortcut: If you find a target directly adjacent to your main yard, the cost is cut in half (500,000). In this case, you only need a Town Hall 3.
+
 
 #### Takeover First Outpost
-Once you have 1 million storage capacity, you are ready to takeover something. Level 25 Legionnaires are the easiest and cheapest to takeover. If you were lucky, there will be a level 25 Legionnaire directly beside your main yard. You can take that over for half the normal cost, so 500,000 of each resource. You can swarm them with Pokeys or Octo-oozes if you decided to unlock that already. Make sure to bring their yard status to at least 90% damaged to take it over. If you need resources, don't forget to attack Dreadnauts in the area for free. It may take a few tries to get enough goo. 
+Once you have 1 million storage capacity, you are ready to takeover something. Level 25 Legionnaires are the easiest and cheapest to takeover. You can swarm them with Pokeys or Octo-oozes if you decided to unlock that already. Make sure to bring their yard status to at least 90% damaged to take it over. If you need resources, don't forget to attack Dreadnauts in the area for free. It may take a few tries to get enough goo this way, or you can attack a higher level kozu. The bottom left has a silo you can reach easily for 500,000 goo. 
 
 
 ## What's Next?
@@ -75,15 +76,15 @@ You should begin upgrading your flinger if you can afford it. Each level gives y
 ### Relocating
 - If you find you are surrounded by higher levels or you do not like your location or server, you can relocate by recycling your map room and rebuilding it. It is super cheap: 2,000 twigs and 2,000 pebbles and only takes 15 minutes to build. You will randomly be placed in a random server in a random location. 
 - Generally, your server name is the name of the player at 0x0. You can go to the [leaderboard](https://www.bymrefitted.com/leaderboards) to see the servers in order in the dropdown menu. If someone takes over the spot at 0x0 it may take some time for the page to update to the new name. 
-- World 1 - 4HAHAHA: 4HAHAHA
+- World 1 - 4hahahas
   - Oldest world
-  - Has the biggest players, and the most inactives
-- World 2 - OP: OP
-- World 3 - LOL: LOL
-- World 4 - DarkKnight: DarkKnight
+  - Has the biggest players but also the most inactives
+- World 2 - ADESANYA
+- World 3 - Gladios
+- World 4 - DarkKnight
   - Newest world, therefore usually newest players
 - You can start out in any world if you have a good location.
-- *Usually* servers 1 and 4 are better to start out on as new players, as there are (currently?) fewer wars than in the other 2. 
+- *Usually* servers 1 and 4 are better to start out on as new players, as there are (currently?) fewer wars than in the other 2. This doesn't mean there are not other players who feel like bullying you one day for no reason though. It is quite easy starting out in a new location once you get in the groove of things. 
   - Disclaimer: This is what I have personally heard. I do not have accounts in each world to verify these claims.
   - Disclaimer 2: I do not update this guide constantly. You can ask in the discord for current status
 
@@ -131,10 +132,10 @@ You should begin upgrading your flinger if you can afford it. Each level gives y
 - Fomor is great at buffing for Main Yard attacks and good at aerial attacks later when it grows wings
 
 ### Attacking
-- Build a catapult! You can repeatedly send 10,000 twigs/pebbles to knock down towers
+- Build a catapult! Even at lower levels, you can repeatedly send 10,000 twigs/pebbles to knock down towers
 - Flinging putty in the catapult buffs your monsters. Higher amounts of putty give more armor and more speed.
   - The wording for armor is misleading. 10,000 putty will give 20% speed and 20% damage mitigation. They still take 80% damage, it is not 80% damage blocked.
-- Upgrade your flinger for a larger range around your main base, up to 10 hexes away.
+- Upgrade your flinger for a larger range around your main base, up to 10 hexes away. If you upgrade your flinger all the way, you may see a 12 hex radius, but that is not the real range.
 - Your main yard has up to a 10 tile fling radius. If you want to attack further, you must use your outposts. You can build housings and flingers on your outposts. Outposts have a max range of 4 hexes.
 - You can also move your main base location for 30 million of every resource onto an outpost you already own.
 
