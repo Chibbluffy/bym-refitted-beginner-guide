@@ -141,7 +141,7 @@ You should begin upgrading your flinger if you can afford it. Each level gives y
 
 ### Defense
 - In my opinion, The best monsters to put in a bunker are Eyeras and Daves with rockets
-- Level 1 bunker I usually put 3 Daves, 1 Eyera
+- Level 1 bunker I usually put 2 Daves, 1 Eyera
 - Level 2 bunker I usually put 2 Daves, 2 Eyera
 - Level 3 bunker I usually put 3 Daves, 1 Eyera
 - Level 4 bunker I usually put 3 Daves, 3 Eyera
