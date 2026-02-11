@@ -139,6 +139,12 @@ You should begin upgrading your flinger if you can afford it. Each level gives y
 - Your main yard has up to a 10 tile fling radius. If you want to attack further, you must use your outposts. You can build housings and flingers on your outposts. Outposts have a max range of 4 hexes.
 - You can also move your main base location for 30 million of every resource onto an outpost you already own.
 
+### Catapult
+- The catapult can be buggy and fire prematurely.
+- You can get around this by clicking and dragging
+  - Click and drag from the selection box to where you want to fire
+  - Or Click and drag from the selection box back up to the catapult box, the one you clicked on initially at the top left. This will make sure it does not fire, and will allow you to still click and drag to navigate map before clicking once to fire. 
+
 ### Defense
 - In my opinion, The best monsters to put in a bunker are Eyeras and Daves with rockets
 - Level 1 bunker I usually put 2 Daves, 1 Eyera
