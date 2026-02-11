@@ -35,7 +35,7 @@ The first thing you want to do, as you are going through the tutorial, is buy wo
 #### Farm Resources
 ** Warning: ** When attacking, you WILL lose your beginner protection shield.  
 
-There are 2 super easy ways you can get enough resources for this. Either attack some level 28 or level 32 Dreadnauts, or complete some upgrade quests. If you do not have any low level Dreadnauts or Legionnaires around, consider [relocating](#relocating).
+There are 2 super easy ways you can farm resources. Either attack some level 28 or level 32 Dreadnauts, or complete some upgrade quests. If you do not have any low level Dreadnauts or Legionnaires around, consider [relocating](#relocating).
 1. You will have a few Pokies in your housing from the tutorial. Originally, there would be another part of the tutorial that leads you to attack some wild monster tribes, but that is not implemented in BYM Refitted. Instead, you can use these Pokies to attack lower level Dreadnauts for easy resources. 3-4 Pokies can take out the whole silo that sits outside the base in a few minutes. Just attacking it should net you a few thousand of each resource, and killing it completely will give well over 100,000 of each resource except goo, so you may want to save the killing for later after upgrading a silo or two.
     - Here are the spots you can attack 
     - ![Dreadnaut free loot](./Dreadnaut-free-spots.png)
