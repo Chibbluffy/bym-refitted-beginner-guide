@@ -38,7 +38,7 @@
     - [Map Room 3 Outpost Loot](#map-room-3-outpost-loot)
     - [Map Room 3 Strongholds](#map-room-3-strongholds)
     - [Map Room 3 Defenders](#map-room-3-defenders)
-    - [Map Room 3 Wild Tribe Loot](#map-room-3-wild-tribe-loot)
+    - [Map Room 3 Wild Tribe Loot (in millions)](#map-room-3-wild-tribe-loot-in-millions)
 
 ---
 
@@ -301,20 +301,20 @@ Once you reach Town Hall level 5, Moloch will start attacking you. After 5 attac
 | Stronghold | 50 ||||||||| 2 | 2 | 2 |
 
 
-### Map Room 3 Wild Tribe Loot
+### Map Room 3 Wild Tribe Loot (in millions)
 
 *(incomplete — data to be filled in)*
 
 | Tribe | Level | Twigs | Pebbles | Putty | Goo |
 |-|-|-|-|-|-|
-| Kozu | 45 | | | | |
-| Kozu | 50 | | | | |
+| Legionnaire | 45 | 3.1 | 3.1 | 3.1 | 3.1 |
+| Legionnaire | 50 | 5.8 | 5.8 | 5.7 | 5.7 |
 |-|-|-|-|-|-|
-| Kozu | 45 | | | | |
-| Kozu | 50 | | | | |
+| Dreadnaut | 45 | 2.8 | 2.8 | 2.4 | 2.4 |
+| Dreadnaut | 50 | 5.6 | 5.1 | 4.7 | 4.7 |
 |-|-|-|-|-|-|
-| Kozu | 45 | | | | |
-| Kozu | 50 | | | | |
+| Kozu | 45 | 4.9 | 5.2 | 4.8 | 4.7 |
+| Kozu | 50 | 6.9 | 7.1 | 6.8 | 6.9 |
 |-|-|-|-|-|-|
-| Kozu | 45 | | | | |
-| Kozu | 50 | | | | |
+| Abunakki | 45 | 3.6 | 3.6 | 3.6 | 3.6 |
+| Abunakki | 50 | 8.3 | 8.3 | 8.3 | 8.3 |
