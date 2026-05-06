@@ -288,18 +288,18 @@ Once you reach Town Hall level 5, Moloch will start attacking you. After 5 attac
 
 ### Map Room 3 Defenders
 
-| Level | 
-|-|
-| 5 | 
-| 10 | 
-| 15 | 
-| 20 | 
-| 25 | 
-| 30 | 
-| 35 | 
-| 40 | 
-| 45 | 
-| 50 | 
+| Structure | Structure Level | Defender Level | 5 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| Main Yard | Any || 2 | 2 | 1 | 1 |||||||
+| Outpost | 10 || 2 | 2 | 1 | 1 |||||||
+| Outpost | 20 |||| 2 | 2 | 1 | 1 |||||
+| Outpost | 30 |||||| 2 | 2 | 1 | 1 |||
+| Outpost | 40 ||||||| 2 | 2 | 1 | 1 ||
+| Outpost | 50 ||||||||| 2 | 2 | 2 |
+| Stronghold | 30 ||||| 2 | 2 | 2 |||||
+| Stronghold | 40 ||||||| 2 | 2 | 2 |||
+| Stronghold | 50 ||||||||| 2 | 2 | 2 |
+
 
 ### Map Room 3 Wild Tribe Loot
 
