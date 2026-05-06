@@ -1,4 +1,5 @@
 # Backyard Monsters Refitted Beginners Guide
+- [More Advanced Topics](advanced/README.md)
 
 ## Table of Contents
 - [Backyard Monsters Refitted Beginners Guide](#backyard-monsters-refitted-beginners-guide)
