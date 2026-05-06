@@ -303,8 +303,6 @@ Once you reach Town Hall level 5, Moloch will start attacking you. After 5 attac
 
 ### Map Room 3 Wild Tribe Loot (in millions)
 
-*(incomplete — data to be filled in)*
-
 | Tribe | Level | Twigs | Pebbles | Putty | Goo |
 |-|-|-|-|-|-|
 | Legionnaire | 45 | 3.1 | 3.1 | 3.1 | 3.1 |
